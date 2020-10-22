@@ -8,9 +8,9 @@ int main()
     cout << "Before swapping." << endl;
     cout << "a = " << a << ", b = " << b << endl;
 
-    temp = a
-    a = b
-    b = temp
+    temp = a;
+    a = b;
+    b = temp;
 
     cout << "\nAfter swapping." << endl;
     cout << "a = " << a << ", b = " << b << endl;
